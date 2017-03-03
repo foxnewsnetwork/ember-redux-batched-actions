@@ -3,15 +3,18 @@
   "version": "0.0.0",
   "description": "ember-cli shim for redux-batched-actions for use with ember-redux",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "thunk",
+    "subscribe",
+    "dispatch"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Thomas Chen",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/foxnewsnetwork/ember-redux-batched-actions",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
