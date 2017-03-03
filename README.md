@@ -1,5 +1,7 @@
 # ember-redux-batched-actions
 
+[![CircleCI](https://circleci.com/gh/foxnewsnetwork/ember-redux-batched-actions.svg?style=svg)](https://circleci.com/gh/foxnewsnetwork/ember-redux-batched-actions)
+
 Ember CLI shim for redux-batched-actions https://github.com/tshelburne/redux-batched-actions
 
 ## Usage
