@@ -1,6 +1,6 @@
 {
   "name": "ember-redux-batched-actions",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ember-cli shim for redux-batched-actions for use with ember-redux",
   "keywords": [
     "ember-addon",
